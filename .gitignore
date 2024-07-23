@@ -6,3 +6,5 @@ data/cifar-10-batches-py/
 data/cifar-10-python.tar.gz
 
 data/MNIST/raw/
+
+data/hymenoptera_data/
