@@ -50,7 +50,6 @@ PyQt5==5.15.10
 PySocks
 python-dateutil
 pytz
-pywin32==305.1
 PyYAML
 pyzmq
 requests
