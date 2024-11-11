@@ -1,0 +1,10 @@
+{
+  "terminal.integrated.profiles.linux": {
+    "zsh": {
+      "path": "/usr/bin/zsh",
+      "args": ["-i", "-c", "source myenv/bin/activate && zsh"]
+    }
+  },
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "python.defaultInterpreterPath": "myenv/bin/python" // For Linux/Mac
+}
