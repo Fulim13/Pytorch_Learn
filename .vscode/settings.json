@@ -6,5 +6,6 @@
     }
   },
   "terminal.integrated.defaultProfile.linux": "zsh",
-  "python.defaultInterpreterPath": "myenv/bin/python" // For Linux/Mac
+  "python.defaultInterpreterPath": "myenv/bin/python", // For Linux/Mac
+  "python.terminal.activateEnvironment": true
 }
